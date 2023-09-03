@@ -14,4 +14,9 @@ I learn from YT: Code With Nomi
 
 ![2](https://github.com/herbayulet/Resep-Makanan/assets/61405169/0673b2fd-f7fb-435c-8ba2-a1d00fde656a)
 
+### The Video:
+
+https://github.com/herbayulet/Resep-Makanan/assets/61405169/7be46e4d-638d-4162-91a3-9cd8bae97298
+
+
   

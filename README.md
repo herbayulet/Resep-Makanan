@@ -1,7 +1,6 @@
 # Resep-Makanan
 
-## This is Recipe Foods App, which is you can search any recipe foods in the world
-I learn from YT: Code With Nomi
+## This is Recipe Foods App, which is you can search any recipe food
 
 ### Stack:
   - React Native Expo
